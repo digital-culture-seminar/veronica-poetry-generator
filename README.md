@@ -1,5 +1,3 @@
-# poetry repository
+# Artistic Statement
 
-Welcome to our DART intro coding class.
-
-Here are the following software:
+I am a collector of all things magical.
