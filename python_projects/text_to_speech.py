@@ -19,7 +19,7 @@ import markovify
 
 # get raw text as string
 
-with open("poem_2.txt") as f:
+with open("poem_2") as f:
 
     text = f.read()
 
@@ -45,7 +45,7 @@ tts = gTTS(text=markov_poem, lang='en')
 
 # write audio file
 
-tts.save("markovified-poem.mp3")
+tts.save("markovified-poem_2.mp3")
 
 
 
